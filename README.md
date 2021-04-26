@@ -1,4 +1,4 @@
-# speechRecognition
+# Speech Recognition
 
 To install SpeechRecognition package is python, run the following command in the terminal and it will be installed on your system.
 
